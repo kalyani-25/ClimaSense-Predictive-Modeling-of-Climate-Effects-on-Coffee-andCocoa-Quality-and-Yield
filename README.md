@@ -1,4 +1,4 @@
-# 🌱 ClimaSense: Predictive Modeling of Climate Effects on Coffee and Cocoa
+# 🌱 EcoBeanAI – Predictive Modeling of Climate Effects on Cocoa & Coffee Quality
 
 ClimaSense is a machine learning-powered project designed to predict the **quality** and **yield** of coffee and cocoa crops under changing climate conditions. The system integrates real and synthetic datasets, deep learning, and tree-based models, and presents predictions via an interactive web dashboard.
 
